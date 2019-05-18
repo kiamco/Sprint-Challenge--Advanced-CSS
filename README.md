@@ -46,7 +46,7 @@ default browser setting usually set font size to 16px which will make 1 rem = 16
 
 4. How would you describe preprocessing to someone new to CSS?
 
- I would decribe less as a way of writng less lines of css. it basically css but extra functionality that supports reusable code. 
+I would decribe less as a way of writng less lines of css. it basically css but extra functionality that supports reusable code. 
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 
